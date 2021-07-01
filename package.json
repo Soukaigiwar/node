@@ -1,8 +1,0 @@
-{
-  "name": "node",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Soukaigiwar/node.git",
-  "author": "soukaigiwar <sergiomello@gmail.com>",
-  "license": "MIT"
-}
